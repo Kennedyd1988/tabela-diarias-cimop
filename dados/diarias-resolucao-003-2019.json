@@ -1,0 +1,50 @@
+[
+  {
+    "localidade": "Natal",
+    "categoriaA": "R$ 300,00",
+    "categoriaB": "R$ 200,00",
+    "categoriaC": "R$ 150,00",
+    "categoriaD": "R$ 120,00",
+    "categoriaE": "R$ 100,00"
+  },
+  {
+    "localidade": "Mossoró, Caicó e Pau dos Ferros",
+    "categoriaA": "R$ 250,00",
+    "categoriaB": "R$ 180,00",
+    "categoriaC": "R$ 140,00",
+    "categoriaD": "R$ 120,00",
+    "categoriaE": "R$ 100,00"
+  },
+  {
+    "localidade": "Demais Cidades do RN",
+    "categoriaA": "R$ 150,00",
+    "categoriaB": "R$ 100,00",
+    "categoriaC": "R$ 80,00",
+    "categoriaD": "R$ 60,00",
+    "categoriaE": "R$ 40,00"
+  },
+  {
+    "localidade": "Brasília",
+    "categoriaA": "R$ 500,00",
+    "categoriaB": "R$ 400,00",
+    "categoriaC": "R$ 300,00",
+    "categoriaD": "R$ 250,00",
+    "categoriaE": "R$ 200,00"
+  },
+  {
+    "localidade": "Demais Estados do país",
+    "categoriaA": "R$ 400,00",
+    "categoriaB": "R$ 300,00",
+    "categoriaC": "R$ 250,00",
+    "categoriaD": "R$ 200,00",
+    "categoriaE": "R$ 150,00"
+  },
+  {
+    "localidade": "Exterior",
+    "categoriaA": "R$ 1.000,00",
+    "categoriaB": "R$ 600,00",
+    "categoriaC": "R$ 500,00",
+    "categoriaD": "R$ 400,00",
+    "categoriaE": "R$ 300,00"
+  }
+]
